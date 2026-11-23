@@ -1,4 +1,4 @@
-# Mira — Dating Platform Frontend
+# FOR — Dating Platform Frontend
 
 Mira is a responsive React + Vite dating-platform frontend based on the supplied `for-master.zip` starter project. The original components and pages remain in `src/component` and `src/pages`; the new experience lives in `src/app` and is wired through `src/App.jsx`.
 
